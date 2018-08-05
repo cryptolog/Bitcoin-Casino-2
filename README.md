@@ -2,11 +2,15 @@
 Bitcoin Lottery Script !
 
 
-change 
+
+
+HOW TO USE ???
+
+Change URL to your own paste
 
 $pizza = file_get_contents("http://pastebin.com/raw/Sr8dzN0Y");
 
-to your paste bin URL
+
 
 
 
