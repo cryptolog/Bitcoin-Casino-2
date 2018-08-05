@@ -1,0 +1,8 @@
+
+{
+  "name": "Bitcoin Casino",
+  "description": "Easy bitcoin Lottery ",
+  "repository": "https://github.com/besoeasy/Bitcoin-Casino",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["bitcoin", "game", "lottery","casino"]
+}
